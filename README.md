@@ -1,2 +1,2 @@
 # DevOps
-References and guide for mostly used DevOps tools and cloud resources and automation 
+References and guide for mostly used DevOps tools, cloud resources and automation 
